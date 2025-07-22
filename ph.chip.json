@@ -1,0 +1,17 @@
+{
+  "name": "ph sensor",
+  "author": "Laplace_Hafiz Filmizzudin Santoso",
+  "pins": [
+    "VCC",
+    "GND",
+    "",
+    "OUT"
+  ],
+  "controls": [    {
+      "id": "phValue",
+      "label": "PH",
+      "type": "slider",
+      "min":0,
+      "max":14
+    }]
+}
