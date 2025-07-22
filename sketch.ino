@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL62_ZHQR_h"
-#define BLYNK_TEMPLATE_NAME "GrowGarden Hydroponic Monitoring System"
-#define BLYNK_AUTH_TOKEN "qN3SRdT8nTDjRD1jWBn6I4fESJF0olGw"
+#define BLYNK_TEMPLATE_ID "YOUR-TEMPLATE-ID"
+#define BLYNK_TEMPLATE_NAME "YOUR-TEMPLATE-NAME"
+#define BLYNK_AUTH_TOKEN "YOUR-AUTH-TOKEN"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
