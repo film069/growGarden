@@ -39,7 +39,8 @@ const int sensorReadingInterval = 1000;
 unsigned long lastSensorReadingTime = 0;
 const float minTemp = 18;
 const float maxTemp = 25;
-const float minHumid = 30;
+const float minHumid = 50;
+const float maxHumid = 70;
 
 DHTesp dhtSensor;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
